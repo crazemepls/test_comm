@@ -468,7 +468,7 @@ const MobileDevicePage = () => {
 
 
         <Box justifyContent={'center'} style={{ margin: 'auto', borderRadius: 20, paddingTop: 50, paddingBottom: 20 }} width={'60vw'}>
-          <Grid container direction="row" justifyContent="center" width={'60vw'} margin={'auto'}>
+          <Grid container direction="row" width={'60vw'} margin={'auto'}>
             {
               phoneListData.map((phoneData, index) => {
                 return (
