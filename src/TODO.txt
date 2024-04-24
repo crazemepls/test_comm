@@ -1,0 +1,12 @@
+*Navbar
+ - Fix dropdown
+ - Add sticky Navbar
+
+ *Footer
+ - change font, add images
+
+ *Body
+ - fix text & image
+
+ fix csses
+add animation
